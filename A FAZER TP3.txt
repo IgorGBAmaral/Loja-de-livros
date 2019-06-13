@@ -1,0 +1,1 @@
+mudar o estilo das paginas create.jsp list.jsp index.jsp e edit.jsp
